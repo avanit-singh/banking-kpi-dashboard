@@ -1,3 +1,5 @@
+![Analysis](https://github.com/avanit-singh/banking-kpi-dashboard/actions/workflows/run_analysis.yml/badge.svg)
+
 # Banking KPI Dashboard & Executive Reporting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
