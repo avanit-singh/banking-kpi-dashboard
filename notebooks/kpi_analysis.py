@@ -6,7 +6,8 @@
 # ================================================================
 
 import pandas as pd
-(import warnings) to line 9 (before warnings.filterwarnings('ignore'))
+import warnings
+warnings.filterwarnings('ignore')
 
 # ── 1. Load Data ─────────────────────────────────────────────
 df = pd.read_csv('data/banking_kpi.csv')
